@@ -1,6 +1,6 @@
 # Instructions  
 
-## Practicum 1 - Understanding the import Statement in Java<br>
+## Practicum 1 - Understanding the import Statement in Java<br> (5 pts.)
 
 **BACKGROUND**<br>
 When a Java program is executed and a new object is
